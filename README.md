@@ -383,8 +383,8 @@ pulsar-star-classification/
 
 **[Ansul Suryawanshi]**  
 📧 Email: [ansul2612@gmail.com]  
-💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ansul-suryawanshi-a365ab15a/))  
-🐙 GitHub: [github.com/yourusername](https://github.com/Ansul-S)
+💼 LinkedIn: [Ansul Suryawanshi](https://www.linkedin.com/in/ansul-suryawanshi-a365ab15a/)
+🐙 GitHub: [Ansul-S](https://github.com/Ansul-S)
 
 ---
 
